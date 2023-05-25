@@ -1,4 +1,4 @@
-# Image-Restoration-of-my-grandfather-s-photography
+# Image Restoration of my grandfather's photography
 
 Introduction
 My Grandfather was a photographer and used to take photos of the war that happened in 1971. He also owned a Photo Developing Studio. I never met him but these to images we found many years later after his death. The Images have destroyed some intent. My mother wanted to restore these images to commemorate her late Father's Work. And mainly I thought about using Deep Learning on these images to restore them as close to the original as possible.
