@@ -13,7 +13,9 @@ https://sde.uoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processin
 
 [2] Image Restoration and Image Degradation Model: 
 https://buzztech.in/image-restoration-and-image-degradation-model/
+
 [3] Degradation Model: 
 https://www.owlnet.rice.edu/~elec539/Projects99/BACH/proj2/intro.html?fbclid=IwAR3Fy91fRrcSFQTvAWXfrl5bfyreq3GC_nIoqG4IMUVK67FZuaiGXvrUsb4
+
 [4] Image Degradation Model, Estimating Noise, Image Restoration
 https://visionlab.uncc.edu/courses/13-ecgr41035103-applied-computer-graphics/40-week-11-image-degradation-model-estimating-noise-image-restoration 
